@@ -1,5 +1,5 @@
 ---
-title: Mon système d'écoute pour être informée sur les dernières tendances
+title: Mon système d'écoute pour rester informé et améliorer ses compétences 
 date: 2023-23-01
 description: "Pour rester informé et améliorer ses compétences en matière d'UX et d'UI design, il est important de s'informer régulièrement en lisant des articles sur des sites spécialisés, des blogs, et en utilisant les réseaux sociaux. Il est recommandé de s'abonner à des newsletters, participer à des communautés en ligne, assister à des conférences et événements, et pratiquer régulièrement en créant des projets personnels ou en contribuant à des projets open-source. Les sites web tels que Awwwards, Behance, Dribbble et UX Design Community sont des exemples de sites où les designers peuvent découvrir les dernières tendances et pratiques en matière de design, s'inspirer de projets primés, se connecter avec d'autres professionnels et trouver des opportunités de travail."
 image: images/news.jpeg
@@ -51,7 +51,8 @@ UX Planet est un lieu d'apprentissage pour les professionnels et les débutants 
 
 
 ## Événements
-[https://www.meetup.com/fr-FR/ixdaromandie/](https://www.meetup.com/fr-FR/ixdaromandie/)  Meetup est une plateforme en ligne qui permet aux utilisateurs de créer et de rejoindre des groupes locaux basés sur des centres d'intérêts communs. Il offre une façon pour les gens de se connecter avec d'autres personnes qui partagent les mêmes passions et les mêmes intérêts. Les groupes peuvent organiser des événements, des rencontres et des activités en personne pour renforcer la communauté et permettre aux membres de se rencontrer en personne.
 
-Ici, IxDA Romandie vise à construire un réseau de designers en Suisse romande. Leur objectif est de promouvoir la discipline du design d'interaction et de fournir des outils pour produire des produits et des services significatifs pour les utilisateurs. Ils organisent des événements pour inspirer et faciliter le partage d'idées entre les membres de leur communauté.
+[Meetup](https://www.meetup.com/) est une plateforme en ligne qui permet aux utilisateurs de créer et de rejoindre des groupes locaux basés sur des centres d'intérêts communs. Il offre une façon pour les gens de se connecter avec d'autres personnes qui partagent les mêmes passions et les mêmes intérêts. Les groupes peuvent organiser des événements, des rencontres et des activités en personne pour renforcer la communauté et permettre aux membres de se rencontrer en personne.
+
+[Ici](https://www.meetup.com/fr-FR/ixdaromandie/), IxDA Romandie vise à construire un réseau de designers en Suisse romande. Leur objectif est de promouvoir la discipline du design d'interaction et de fournir des outils pour produire des produits et des services significatifs pour les utilisateurs. Ils organisent des événements pour inspirer et faciliter le partage d'idées entre les membres de leur communauté.
 

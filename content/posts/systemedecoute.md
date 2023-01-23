@@ -44,8 +44,6 @@ Cependant, Dribbble se distingue de Behance en proposant une expérience de part
 
 UX Planet est un lieu d'apprentissage pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur. Il est également un lieu d'inspiration pour les créatifs, ils peuvent y découvrir les dernières tendances et les meilleures pratiques dans leur domaine. En somme, UX Planet est un excellent choix pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur en accédant à des contenus de qualité et à une communauté active.
 
-[https://www.uxpin.com/studio/blog](https://www.uxpin.com/studio/blog) 
-
 ## Réseaux sociaux
 [BastiUI sur Twitch](https://www.twitch.tv/bastiui/), [YouTube](https://www.youtube.com/@BastiUi) et [Twitter] (https://twitter.com/BastiUi)
 

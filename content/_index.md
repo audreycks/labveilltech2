@@ -1,6 +1,8 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: UX / UI Designer
+description: Conception d'interface utilisateur
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+En tant que professionnel je me concentre sur la création d'expériences utilisateur (UX) et l'apparence visuelle (UI) d'un produit numérique, comme un site web ou une application mobile. Mon travail consiste à comprendre les besoins des utilisateurs, à concevoir des interfaces utilisateur efficaces et à m'assurer que l'expérience utilisateur soit agréable et intuitive. 
+
+

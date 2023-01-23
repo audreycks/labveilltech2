@@ -2,17 +2,17 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "https://twitter.com/AudreyCsikos",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "url": "https://github.com/audreycks",
       "image": "images/social/github.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/in/audreycsikos/",
       "image": "images/social/linkedin.svg"
     }
   ]

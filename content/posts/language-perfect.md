@@ -1,69 +1,57 @@
 ---
-title: The revolution will be complete when the language is perfect
-date: 2019-08-07
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames."
-image: images/cctv2.jpeg
+title: Mon système d'écoute pour être informée sur les dernières tendances
+date: 2023-23-01
+description: "Pour rester informé et améliorer ses compétences en matière d'UX et d'UI design, il est important de s'informer régulièrement en lisant des articles sur des sites spécialisés, des blogs, et en utilisant les réseaux sociaux. Il est recommandé de s'abonner à des newsletters, participer à des communautés en ligne, assister à des conférences et événements, et pratiquer régulièrement en créant des projets personnels ou en contribuant à des projets open-source. Les sites web tels que Awwwards, Behance, Dribbble et UX Design Community sont des exemples de sites où les designers peuvent découvrir les dernières tendances et pratiques en matière de design, s'inspirer de projets primés, se connecter avec d'autres professionnels et trouver des opportunités de travail."
+image: images/news.jpeg
 ---
 
-## He moved over to the window
+## Pourquoi?
 
-Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
+Rester informé sur les dernières tendances et pratiques en matière d'UX et d'UI design est crucial pour proposer des solutions innovantes et adaptées à vos clients. Pour cela, il est important de s'informer régulièrement en lisant des articles sur des sites spécialisés, des blogs, et en utilisant les réseaux sociaux. Cependant, il peut être difficile de suivre l'actualité de tous ces différents supports. Il est donc recommandé de s'abonner à des newsletters qui regroupent les informations les plus importantes et vous permettent de les lire quand vous le souhaitez. 
 
-Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron. The voice came from an oblong metal plaque like a dulled mirror which formed part of the surface of the right-hand wall. Winston turned a switch and the voice sank somewhat, though the words were still distinguishable. The instrument (the telescreen, it was called) could be dimmed) but there was no way of shutting it off completely.
+Il est également important de participer à des communautés en ligne dédiées à l'UX et à l'UI design, où vous pourrez échanger avec d'autres professionnels et découvrir les dernières tendances et pratiques. Les groupes Facebook, les forums et les subreddits sont de bons endroits pour commencer.
 
-He moved over to the window: a smallish, frail figure, the meagerness of his body merely emphasized by the blue overalls which were the uniform of the Party. His hair was very fair, his face naturally sanguine, his skin roughened by coarse soap and blunt razor blades and the cold of the winter that had just ended.
+Il est également important de participer à des conférences et à des événements liés à l'UX et à l'UI design pour rencontrer d'autres professionnels et apprendre des experts dans le domaine. Les conférences en ligne sont également une excellente option si vous ne pouvez pas vous déplacer physiquement.
 
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Thalamoque lugubris qui loco croceum
-- Torque exploratis ornum intexuit gestamina est
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
+Enfin, il est essentiel de pratiquer régulièrement en créant des projets personnels ou en contribuant à des projets open-source pour améliorer vos compétences et rester à jour avec les dernières tendances et technologies.
 
-## Hos sum sex o quamvis Thoantis gentes
+## Sites webs
+[Awwwards](https://www.awwwards.com/) est un site web qui récompense et met en valeur les meilleurs sites web et les meilleurs designers en matière de design d'expérience utilisateur (UX), d'interface utilisateur (UI) et de design de site web. Il offre un aperçu des dernières tendances et des meilleures pratiques en matière de design, en permettant aux utilisateurs de naviguer à travers les projets primés et les commentaires des juges. C'est un lieu d'inspiration pour les designers, qui peuvent découvrir les designs les plus créatifs et les plus innovants dans le domaine et trouver des idées pour leur propres projets.
 
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
+[Behance](https://www.behance.net/) est un site web de portfolio en ligne qui permet aux créatifs de présenter leur travail à un public mondial. Il est très populaire parmi les designers d'interface utilisateur (UI), les designers d'expérience utilisateur (UX) et les graphistes. Il est un excellent moyen pour les designers de montrer leur travail, de se connecter avec d'autres professionnels et de découvrir les dernières tendances dans le domaine. Les utilisateurs peuvent également suivre les projets et les créateurs qu'ils apprécient, recevoir des mises à jour sur les nouveaux projets et même trouver des opportunités de travail. En outre, Behance est également un lieu d'inspiration pour les créatifs, ils peuvent découvrir les dernières tendances et les meilleures pratiques dans leur domaine.
 
-Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
+[Dribbble](https://dribbble.com/) est un autre site web de portfolio en ligne pour les designers, en particulier pour les designers d'interface utilisateur (UI) et les designers d'expérience utilisateur (UX). Il est similaire à Behance car il permet aux utilisateurs de présenter leur travail à un public mondial et de se connecter avec d'autres professionnels. Dribbble est également un lieu d'inspiration pour les designers, ils peuvent découvrir les dernières tendances et les meilleures pratiques dans leur domaine.
 
-## Ocior saxa Phoebus placet
+Cependant, Dribbble se distingue de Behance en proposant une expérience de partage de contenu plus interactive. Les utilisateurs peuvent "liker" et commenter les projets, suivre les créateurs qu'ils apprécient, et même "re-dribbler" les projets qu'ils aiment pour les partager avec leur propre public. Cela permet aux utilisateurs de créer une communauté engagée autour de leur travail et d'établir des relations professionnelles significatives. En outre, Dribbble est également une plateforme de recrutement pour les employeurs qui cherchent à recruter des talents dans les domaines de l'UX et de l'UI.
 
-Enim acclinia opera; _ea gemit_. Cervice sine tibi forma; non inde rubescere
-usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at **eadem**,
-quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
-venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
+[Medium](https://medium.com/) est une plateforme de publication en ligne qui offre une grande variété de contenus de qualité sur l'UX/UI design, écrits par des experts et des professionnels de l'industrie. Il permet également aux utilisateurs de s'abonner aux publications et aux auteurs qui les intéressent le plus pour recevoir des mises à jour régulières sur les sujets qui les intéressent, ainsi qu'une communauté d'utilisateurs pour échanger des idées et des avis. Il est donc un lieu idéal pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur en accédant à des contenus de qualité et à une communauté engagée.
 
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
+[Mobbin](https://mobbin.com/) est un site web qui regroupe des exemples de designs d'interface mobile pour les designers d'interface utilisateur (UI) et les designers d'expérience utilisateur (UX). Il offre une variété de designs d'applications mobiles pour différents systèmes d'exploitation et catégories, permettant aux utilisateurs de naviguer, de filtrer et même de télécharger les designs pour utiliser comme base pour leurs propres projets. Il permet aux designers de découvrir les dernières tendances et les meilleures pratiques en matière de design mobile, de s'inspirer et de trouver des idées pour leurs projets.
 
-## Animi igne
 
-Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
-ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
-ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
-a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
+[Smashing Magazine](https://www.smashingmagazine.com/) est un site web de publication en ligne qui se concentre sur les sujets liés au design web, à l'expérience utilisateur (UX) et à l'interface utilisateur (UI). Il publie des articles, des tutoriels, des conseils et des critiques sur des sujets tels que le design de site web, le développement web, l'accessibilité, les tendances en matière de design, les outils et les technologies, etc. Il est considéré comme une référence dans le domaine du design web et est très apprécié pour la qualité de son contenu et l'expertise de ses contributeurs. Les professionnels de l'UX et de l'UI design peuvent utiliser ce site pour rester informés des dernières tendances et des meilleures pratiques en matière de design web, découvrir de nouveaux outils et technologies, et améliorer leurs compétences en suivant les conseils des experts. En somme, Smashing Magazine est un incontournable pour tout professionnel de l'UX et de l'UI design souhaitant rester informé et améliorer ses compétences.
 
-> At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
-> Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
+[UX Mastery](https://www.uxmastery.com/) est un site web dédié à l'expérience utilisateur (UX) qui propose des ressources, des cours et des articles pour aider les professionnels et les débutants à améliorer leurs compétences en matière d'UX. Il propose des cours en ligne, des livres électroniques, des guides pratiques, des articles de blog et des webinaires pour aider les utilisateurs à comprendre les fondamentaux de l'UX, les meilleures pratiques et les tendances émergentes. Il couvre également des sujets tels que la recherche utilisateur, la conception d'interaction, l'analyse de données et la gestion de projet. Le site est maintenu par des experts de l'UX et offre une communauté en ligne pour les professionnels de l'UX, ils peuvent échanger des idées, partager des expériences et des conseils, et se connecter avec d'autres professionnels de l'UX. En somme, UX Mastery est un excellent choix pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur et à rester informés des dernières tendances dans le domaine.
 
-Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+[UX Mag](https://www.uxmag.com/) eest un magazine en ligne dédié à l'expérience utilisateur (UX) qui propose des articles, des entretiens, des études de cas et des ressources pour aider les professionnels et les débutants à améliorer leurs compétences en matière d'UX. Il couvre des sujets tels que la recherche utilisateur, la conception d'interaction, l'analyse de données, les tendances en matière de design, la gestion de projet, les outils et technologies et l'accessibilité. Il est maintenu par des experts de l'UX et offre une mine d'informations pour les professionnels qui cherchent à améliorer leurs compétences et à rester informés des dernières tendances dans le domaine. Il propose également des séminaires, des webinaires, des ateliers et des formations pour aider les professionnels à améliorer leurs compétences en matière d'UX. Il est donc un lieu d'apprentissage pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur.
+
+[UX Design](https://www.uxdesign.com/) est un site web dédié à l'expérience utilisateur (UX) qui propose des articles, des tutoriels, des études de cas et des ressources pour aider les professionnels et les débutants à améliorer leurs compétences en matière d'UX. Il couvre des sujets tels que la recherche utilisateur, la conception d'interaction, l'analyse de données, les tendances en matière de design, la gestion de projet, les outils et technologies et l'accessibilité. Il propose également des cours en ligne, des livres électroniques, des guides pratiques, des articles de blog et des webinaires pour aider les utilisateurs à comprendre les fondamentaux de l'UX, les meilleures pratiques et les tendances émergentes. Il offre également une communauté en ligne pour les professionnels de l'UX où ils peuvent échanger des idées, partager des expériences et des conseils, et se connecter avec d'autres professionnels de l'UX. Il est un lieu idéal pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur et à rester informés des dernières tendances
+
+[UX Movement](https://www.uxmovement.com/) est un site web spécialisé dans l'expérience utilisateur (UX) qui propose des articles, des études de cas et des conseils pour aider les designers à améliorer l'UX de leurs produits. Il se distingue par une approche axée sur les preuves et les bonnes pratiques, et met l'accent sur l'importance de la recherche utilisateur dans la conception d'expérience utilisateur de qualité. Il est un lieu idéal pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'UX en accédant à des contenus de qualité, des conseils pratiques et une communauté active.
+
+## Blogs
+[UX Planet](https://www.uxplanet.org/) est un blog en ligne dédié à l'expérience utilisateur (UX) qui propose des articles, des tutoriels, des études de cas et des ressources pour aider les professionnels et les débutants à améliorer leurs compétences en matière d'UX. Il couvre des sujets tels que la recherche utilisateur, la conception d'interaction, l'analyse de données, les tendances en matière de design, la gestion de projet, les outils et technologies et l'accessibilité. Il est maintenu par une communauté de contributeurs de différents horizons qui partagent leur expertise et leur expérience en matière d'UX.
+
+UX Planet est un lieu d'apprentissage pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur. Il est également un lieu d'inspiration pour les créatifs, ils peuvent y découvrir les dernières tendances et les meilleures pratiques dans leur domaine. En somme, UX Planet est un excellent choix pour les professionnels et les débutants qui cherchent à améliorer leurs compétences en matière d'expérience utilisateur en accédant à des contenus de qualité et à une communauté active.
+
+[https://www.uxpin.com/studio/blog](https://www.uxpin.com/studio/blog) 
+
+## Réseaux sociaux
+[BastiUI sur Twitch](https://www.twitch.tv/bastiui/), [YouTube](https://www.youtube.com/@BastiUi) et [Twitter] (https://twitter.com/BastiUi)
+
+
+## Événements
+[https://www.meetup.com/fr-FR/ixdaromandie/](https://www.meetup.com/fr-FR/ixdaromandie/)  Meetup est une plateforme en ligne qui permet aux utilisateurs de créer et de rejoindre des groupes locaux basés sur des centres d'intérêts communs. Il offre une façon pour les gens de se connecter avec d'autres personnes qui partagent les mêmes passions et les mêmes intérêts. Les groupes peuvent organiser des événements, des rencontres et des activités en personne pour renforcer la communauté et permettre aux membres de se rencontrer en personne.
+
+Ici, IxDA Romandie vise à construire un réseau de designers en Suisse romande. Leur objectif est de promouvoir la discipline du design d'interaction et de fournir des outils pour produire des produits et des services significatifs pour les utilisateurs. Ils organisent des événements pour inspirer et faciliter le partage d'idées entre les membres de leur communauté.
+

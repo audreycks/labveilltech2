@@ -1,6 +1,6 @@
 ---
 title: Mon système d'écoute pour rester informé et améliorer ses compétences 
-date: 2023-23-01
+date: 2023-01-23
 description: "Pour rester informé et améliorer ses compétences en matière d'UX et d'UI design, il est important de s'informer régulièrement en lisant des articles sur des sites spécialisés, des blogs, et en utilisant les réseaux sociaux. Il est recommandé de s'abonner à des newsletters, participer à des communautés en ligne, assister à des conférences et événements, et pratiquer régulièrement en créant des projets personnels ou en contribuant à des projets open-source. Les sites web tels que Awwwards, Behance, Dribbble et UX Design Community sont des exemples de sites où les designers peuvent découvrir les dernières tendances et pratiques en matière de design, s'inspirer de projets primés, se connecter avec d'autres professionnels et trouver des opportunités de travail."
 image: images/news.jpeg
 ---

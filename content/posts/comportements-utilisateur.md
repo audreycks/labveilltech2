@@ -18,3 +18,5 @@ Sources:
 [Sreya Majumdar, UX and decision making, 20 avril 2022](https://uxmag.com/articles/ux-and-decision-making)
 
 [Sreya Majumdar, UX and the Hook, 28 septembre 2022](https://uxmag.com/articles/ux-and-the-hook)
+
+[Image](https://as1.ftcdn.net/v2/jpg/05/62/62/72/1000_F_562627231_YZl5s0rgeK7cs4WlRgYLOwq3yBxvjal4.jpg)

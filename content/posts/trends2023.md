@@ -1,7 +1,7 @@
 ---
 title: Les tendances en 2023
 date: 2023-01-26T15:01:43+01:00
-description: ""
+description: "En tant qu’UX/UI designer il est important de surveiller les nouvelles tendances afin de pouvoir rester compétitifs, rester inspirés et répondre aux normes et attentes actuelles du marché. "
 image: images/trends.jpeg
 ---
 

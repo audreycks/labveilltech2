@@ -43,7 +43,7 @@ Voici quelques ressources que j'utilise:
 [UX Planet](https://www.uxplanet.org/) est un blog en ligne dédié à l'expérience utilisateur (UX) qui propose des articles, des tutoriels, des études de cas et des ressources pour aider les professionnels et les débutants à améliorer leurs compétences en matière d'UX. Il est maintenu par une communauté de contributeurs de différents horizons qui partagent leur expertise et leur expérience en matière d'UX.
 
 ## Réseaux sociaux
-[BastiUI sur Twitch](https://www.twitch.tv/bastiui/), [YouTube](https://www.youtube.com/@BastiUi) et [Twitter](https://twitter.com/BastiUi) est un designer d'interface utilisateur (UI) et un animateur qui partage des vidéos et des articles sur les dernières tendances en matière de design d'interface utilisateur et de design d'expérience utilisateur (UX). Il propose également des conseils et des astuces durant ses lives sur Twitch ou ses vidéos sur YouTube.
+BastiUI [sur Twitch](https://www.twitch.tv/bastiui/), [YouTube](https://www.youtube.com/@BastiUi) et [Twitter](https://twitter.com/BastiUi) est un designer d'interface utilisateur (UI) et un animateur qui partage des vidéos et des articles sur les dernières tendances en matière de design d'interface utilisateur et de design d'expérience utilisateur (UX). Il propose également des conseils et des astuces durant ses lives sur Twitch ou ses vidéos sur YouTube.
 
 
 ## Événements

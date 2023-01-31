@@ -8,17 +8,17 @@ N'étant pas familière avec tous ce qui est possible de faire sur Figma. J'ai v
 
 J'ai d'abord recréé la page d'exemple en y ajoutant les boutons.
 
-<img src="/labeveilltech2/images/pagev1.png">
+<img src="/labveilltech2/images/pagev1.png">
 
 ![Alt text](/labveilltech2/static/images/pagev1.png)
 
 J'ai par la suite créer les composants en changeant la postion des photos. 
 
-<img src="/labeveilltech2/images/pagev2.png">
+<img src="/labveilltech2/images/pagev2.png">
 
 J'ai ensuite intégré les interactions avec les boutons.
 
-<img src="/labeveilltech2/images/pagev3.png">
+<img src="/labveilltech2/images/pagev3.png">
 
 Sources:
 [Button controlled Scroll/ carousel interaction in Figma](https://www.youtube.com/watch?v=oE0v0wfX2AQ)

@@ -10,6 +10,8 @@ J'ai d'abord recréé la page d'exemple en y ajoutant les boutons.
 
 <img src="/labeveilletech2/images/pagev1.png">
 
+![Alt text](/images/pagev1.png)
+
 J'ai par la suite créer les composants en changeant la postion des photos. 
 
 <img src="/labeveilletech2/images/pagev2.png">

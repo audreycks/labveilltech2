@@ -1,7 +1,7 @@
 ---
 title: Comment utiliser les biais et comportements des utilisateurs pour améliorer l'UX
 date: 2023-01-25T15:01:43+01:00
-description: "En UX et UI design, il est important de s'informer régulièrement en lisant des articles sur des sites spécialisés, des blogs, et en utilisant les réseaux sociaux. Il est recommandé de s'abonner à des newsletters, participer à des communautés en ligne, assister à des conférences et événements, et pratiquer régulièrement en créant des projets personnels ou en contribuant à des projets open-source."
+description: ""
 image: images/decision.jpeg
 ---
 

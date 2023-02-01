@@ -45,6 +45,8 @@ Voici quelques ressources que j'utilise:
 ## Réseaux sociaux
 BastiUI [sur Twitch](https://www.twitch.tv/bastiui/), [YouTube](https://www.youtube.com/@BastiUi) et [Twitter](https://twitter.com/BastiUi) est un designer d'interface utilisateur (UI) et un animateur qui partage des vidéos et des articles sur les dernières tendances en matière de design d'interface utilisateur et de design d'expérience utilisateur (UX). Il propose également des conseils et des astuces durant ses lives sur Twitch ou ses vidéos sur YouTube.
 
+Akash Yadav sur [YouTube](https://www.youtube.com/@AkashYadavUX/featured) crée des vidéos tutoriels sur le design d'interface sur Figma. 
+
 
 ## Événements
 

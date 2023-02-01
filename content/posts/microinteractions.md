@@ -11,16 +11,18 @@ Les microinteractions peuvent être déclenchées par l'utilisateur ou par le sy
 
 Un exemple de microinteraction déclenchée par l'utilisateur est la barre de défilement qui donne un retour visuel sur la position de l'utilisateur sur une page. La fonction "rafraîchir en tirant vers le bas" dans les applications est également une microinteraction déclenchée par l'utilisateur qui fournit un retour visuel sur l'action de l'utilisateur.
 
-![Alt text](https://miro.medium.com/max/1400/1*25uROlsf4CoKLwRBjqLLBA.jpeg) "barre de défilement"
+![Alt text](https://miro.medium.com/max/1400/1*25uROlsf4CoKLwRBjqLLBA.jpeg) 
+
+"barre de défilement"
 
 Les microinteractions déclenchées par le système incluent les alarmes numériques qui donnent un retour visuel et auditif sur le temps écoulé, ainsi que les notifications qui informent l'utilisateur d'une nouvelle notification.
 
-Les animations peuvent être utilisées de manière astucieuse, par exemple en enlevant l'ennui d'un écran de chargement. Les utilisateurs n'attendent que deux secondes pour que le site ou l'application se charge et un délai supplémentaire peut les inciter à quitter. Des écrans de chargement animés peuvent les divertir et les impliquer pendant qu'ils attendent que le contenu apparaisse.
+Les animations peuvent être utilisées de manière astucieuse, par exemple en enlevant l'ennui lors d'un écran de chargement. Les utilisateurs n'attendent que deux secondes pour que le site ou l'application se charge et un délai supplémentaire peut les inciter à quitter. Des écrans de chargement animés peuvent les divertir et les impliquer pendant qu'ils attendent que le contenu apparaisse.
 
 Il est important de noter que les éléments animés prennent de l'espace. Il est donc important de faire attention à l'utilisation des animations pour éviter un usage excessif qui peut affaiblir le message et réduire l'effet hiérarchique. Les animations doivent compléter la fonctionnalité et tenir compte de l'accessibilité en utilisant des indicateurs visuels et sonores.
 
 
-En conclusion, les microinteractions sont un élément clé pour une expérience utilisateur réussie. Elles peuvent ajouter une touche de personnalité et de fluidité à une application ou un site web, à condition de les utiliser de manière judicieuse. Les designers doivent considérer l'accessibilité, la culture et les préférences personnelles des utilisateurs lors de la conception de ces éléments pour créer une expérience cohérente et efficace pour les utilisateurs.
+En conclusion, les microinteractions sont un élément clé pour une expérience utilisateur réussie. Elles peuvent ajouter une touche de personnalité et de fluidité à une application ou un site web, à condition de les utiliser de manière judicieuse.
 
 Sources:
 

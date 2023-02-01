@@ -34,3 +34,5 @@ Les styles des boutons permettent de différencier les différentes actions (nav
 
 Sources:
 [Image](https://miro.medium.com/max/1400/1*vOrnU4nFOKfyK5i7VIZf6Q.png)
+
+[Domas Markevicius, Designing the perfect button, 1er novembre 2022](https://uxmag.com/articles/designing-the-perfect-button)

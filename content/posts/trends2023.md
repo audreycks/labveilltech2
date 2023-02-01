@@ -13,12 +13,12 @@ En tant qu’UX/UI designer il est important de surveiller les nouvelles tendanc
 2. Scrollytelling - le défilement immersif. Les animations déclenchées par le défilement permettent d’ajouter une narration à ce qui est affiché.
 3. Nouveau Minimalisme Audacieux - Les couleurs monochromes, des motifs en 2D et une interface moins remplie seront importants pour donner un look minimaliste moderne 
 4. Couleurs Heureuses - Des couleurs audacieuses et heureuses des années retro ainsi que des éléments bruts.
-5. Gradients Aurora - les dégradés resteront populaires et seront de plus en plus utilisés pour créer des design d’interfaces qui attirent l’attention
+5. Gradients Aurora - les dégradés seront de plus en plus utilisés pour créer des design d’interfaces qui attirent l’attention
 
 ## Tendances UX :
 
 1. Expérience Cross-device - les utilisateurs s'attendent à une expérience fluide et cohérente entre les différents appareils. 
-2. (Hyper) Personnalisation - la personnalisation sera une tendance clé pour offrir des expériences uniques et émotionnelles aux utilisateurs.
+2. (Hyper) Personnalisation - la personnalisation permet d'offrir des expériences uniques et émotionnelles aux utilisateurs.
 3. Microinteractions - les microinteractions seront présent dans la recherche en UX afin d’identifier de nouvelles opportunités pour améliorer la fidélisation. 
 4. Design Émotionnel - le design émotionnel vise à susciter des émotions et des sentiments positifs chez les utilisateurs en utilisant des couleurs, des formes, des images et du son. 
 

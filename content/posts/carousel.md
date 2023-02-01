@@ -18,5 +18,7 @@ J'ai ensuite intégré les interactions avec les boutons.
 
 <img src="/labveilltech2/images/pagev3.png">
 
+Et voilà ! Je me suis retrouvée avec une jolie animation de carousel que je pourrai réutiliser dans mes projets. 
+
 Sources:
-[Button controlled Scroll/ carousel interaction in Figma](https://www.youtube.com/watch?v=oE0v0wfX2AQ)
+[Akash Yadav, Button controlled Scroll/ carousel interaction in Figma](https://www.youtube.com/watch?v=oE0v0wfX2AQ)
